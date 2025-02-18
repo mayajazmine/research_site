@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Maya Chandar-Kouba: Research Page
 ---
 
