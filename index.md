@@ -1,4 +1,4 @@
 ---
-title: Maya Chandar-Kouba: Research Page
+title: Maya Chandar-Kouba: Research Page 
 ---
 
